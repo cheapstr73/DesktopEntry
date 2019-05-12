@@ -1,0 +1,22 @@
+ 
+.root{
+-fx-focus-color:lightgray;
+-fx-faint-focus-color: transparent;
+}
+
+.button{
+
+
+
+}
+
+.button:after{
+
+}
+.button:hover{
+
+-fx-cursor: hand;
+}
+
+.label{
+}
